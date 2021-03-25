@@ -3,7 +3,7 @@ module "servers" {
   instance_count = 5
   image_id = "ami-0885b1f6bd170450c"
   name = ""
-  srvcountry = "col"
+  srvcountry = "arg"
   srvclient = "san"
   srvproduct = "pb"
   srvrole = "k8s"
