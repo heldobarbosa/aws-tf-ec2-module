@@ -5,7 +5,7 @@ module "servers" {
   name = ""
   srvcountry = "col"
   srvclient = "san"
-  srvproduct = "pi"
+  srvproduct = "pb"
   srvrole = "k8s"
   srvenvironment = "a"
   instance_type = "t2.micro"
